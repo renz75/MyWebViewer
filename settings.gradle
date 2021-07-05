@@ -1,0 +1,2 @@
+rootProject.name = "My Web Viewer"
+include ':app'

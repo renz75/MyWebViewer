@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Web Viewer</string>
+    <string name="textViewPlease">Please choose a website</string>
+    <string name="buttonYahoo">GO</string>
+    <string name="buttonUCSD">GO</string>
+    <string name="textViewUCSD">UCSD Extension</string>
+    <string name="textViewYahoo">Yahoo</string>
+
+</resources>
